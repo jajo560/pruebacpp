@@ -10,8 +10,8 @@ int main(int argc, char**argv){
 	}
 	else {
 		std::cout << "Introduce un nombre como parámetro!!!" << std::endl;
-	}	
-
+	}
+	
 	return 0;
 
 }
